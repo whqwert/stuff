@@ -1,0 +1,41 @@
+[class|='side'] > div:nth-child(28):before, /* OpenAsar */
+[class|='side'] > div:nth-child(31):before /* Vencord */ {
+	--icon: var(--SeIc-icon-general-settings) !important;
+}
+
+[class|='side'] > div:nth-child(32):before /* Plugins */ {
+	--icon: var(--SeIc-icon-plugins) !important;
+}
+
+[class|='side'] > div:nth-child(33):before /* Themes */ {
+	--icon: var(--SeIc-icon-themes) !important;
+}
+
+[class|='side'] > div:nth-child(34):before, /* Updater */
+/* TODO: add backup & restore icon - update icon without clock */
+/* ex: https://fonts.google.com/icons?selected=Material%20Symbols%20Rounded%3Asettings_backup_restore%3AFILL%401%3Bwght%40400%3BGRAD%400%3Bopsz%4024 */
+[class|='side'] > div:nth-child(36):before /* Backup & Restore */ {
+	--icon: var(--SeIc-icon-updater) !important;
+}
+
+/* TODO: add cloud icon */
+/* ex: https://fonts.google.com/icons?selected=Material%20Symbols%20Rounded%3Acloud_sync%3AFILL%401%3Bwght%40400%3BGRAD%400%3Bopsz%4024 */
+[class|='side'] > div:nth-child(35):before /* Cloud */ {
+	--icon: var(--SeIc-icon-devices) !important;
+}
+
+[class|='side'] > div:nth-child(39):before /* Activity Privacy */ {
+	--icon: var(--SeIc-icon-activity-privacy) !important;
+}
+
+[class|='side'] > div:nth-child(40):before /* Registered Games */ {
+	--icon: var(--SeIc-icon-registered-games) !important;
+}
+
+[class|='side'] > div:nth-child(42):before /* What's New */ {
+	--icon: var(--SeIc-icon-change-log) !important;
+}
+
+[class|='side'] > div:nth-child(43):before /* Hypesquad */ {
+	--icon: var(--SeIc-icon-hypesquad) !important;
+}
