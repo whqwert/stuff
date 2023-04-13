@@ -3,7 +3,7 @@
 }
 
 .side-1lrxIh > .item-2GWPIy:nth-child(29)::before, /* Vencord */ 
-.side-1lrxIh > .item-2GWPIy:nth-child(35) /* Desktop Settings */ {
+.side-1lrxIh > .item-2GWPIy:nth-child(35)::before /* Desktop Settings */ {
 	--icon: var(--SeIc-icon-general-settings) !important;
 }
 
