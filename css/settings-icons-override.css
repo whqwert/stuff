@@ -37,10 +37,10 @@
 	--icon: var(--SeIc-icon-registered-games) !important;
 }
 
-.side-1lrxIh > .item-2GWPIy:nth-child(41)::before /* What's New */ {
+.side-1lrxIh > .item-2GWPIy:nth-child(40)::before /* What's New */ {
 	--icon: var(--SeIc-icon-change-log) !important;
 }
 
-.side-1lrxIh > .item-2GWPIy:nth-child(42)::before /* Hypesquad */ {
+.side-1lrxIh > .item-2GWPIy:nth-child(41)::before /* Hypesquad */ {
 	--icon: var(--SeIc-icon-hypesquad) !important;
 }
